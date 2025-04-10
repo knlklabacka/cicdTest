@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "MDKOMEN",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus2.actions.githubusercontent.com/YSfIXAMqUVzBfltNNRWdIpI4B1jYIR6sASKTcZi6MjXbJ7O1Lf/",
+  "gitHubUrl": "https://github.com/knlklabacka/cicdTest",
+  "workFolder": "_work"
+}
